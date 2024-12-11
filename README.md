@@ -17,3 +17,13 @@ Running this code will give you back a CSV File containing information such as
 **Artist** - The Artist that created the song 
 
 **Feature1** - **Feature5** - The Features on the song (Returns NA once the number of feature columns exceeds the number of features)
+
+The "Functions" folder contains 3 items
+
+1) Discography.csv - Where the data will be saved
+
+2) Main.py - Where you call the Function
+
+3) Line.py - Where the Function is stored
+
+As of now, the class in Line.py is also in Main.py for easier downloadability, so this Line.py file is optional
